@@ -1,0 +1,35 @@
+.heading{
+    width : 100%;
+    text-align : left;
+    }
+    .heading h3{
+        display: inline;
+    }
+    .heading button{
+        float: right;
+        border: 1px solid white;
+    }
+    .big_image{
+        width: 100%;
+    }
+    #start ,#status{
+        font-size: 22px;
+    }
+    h4{
+        background-color: #f5f5f5;
+        line-height: 2;
+        margin: 0px;
+    }
+    li{
+        font-size:large;
+        text-align: left;
+    }
+    .copy_right_footer{
+        position: fixed;
+        color: #1CEAC6;
+        bottom : 0;
+        width : 100%;
+        background-color: #f5f5f5;
+        line-height: 3;
+        text-align: center;
+    }
